@@ -1,4 +1,0 @@
-config_sha256=79fc4de58d7676a3a910d933ff1b3d10da309691bf34411750ea5aa934b99bde
-main_dart_js_sha256=c1ae6aec3701c0e35f8256c85a982e7b4a7b707aef1b98a25638a08a12b37382
-web_origin=http://localhost:3000
-supabase_url=http://127.0.0.1:54321
