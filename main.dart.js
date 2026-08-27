@@ -142972,7 +142972,7 @@ if(!(r&&p))if(q)m=p||A.cmW(o)
 else m=!1
 else m=!0
 return m},
-br4(){var s,r=A.KV(""),q=A.afG(),p=r!=null,o=!1
+br4(){var s,r=A.KV("https://futureride2026.github.io"),q=A.afG(),p=r!=null,o=!1
 if(p)if(r.gdV()==="http"){s=(r.ghL()==="localhost"||r.ghL()==="127.0.0.1")&&r.gvZ()
 o=s}s=!0
 if(p)if(!(r.gdV()!=="https"&&!o))if(r.ghL().length!==0)if(r.gwE().length===0)p=r.gdD().length!==0&&r.gdD()!=="/"||r.gtO().length!==0||r.gk_().length!==0
