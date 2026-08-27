@@ -157499,8 +157499,8 @@ r=a.h(0,"role")
 q.PS(r==null?a.h(0,"melaRole"):r)
 r=a.h(0,"todayAssignmentCount")
 return new A.nQ(p,s,q.dR(r==null?0:r))},
-bp4(a){var s,r,q=a.h(0,"financeProviderId")
-q=this.cJ(q==null?a.h(0,"id"):q,"finance provider ID")
+bp4(a){var s,r,q=a.h(0,"id")
+q=this.cJ(q==null?a.h(0,"financeProviderId"):q,"finance provider ID")
 s=this.cJ(a.h(0,"name"),"finance provider name")
 r=a.h(0,"isActive")
 return new A.mH(q,s,this.fo(r==null?!0:r))},
